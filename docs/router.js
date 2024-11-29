@@ -22,6 +22,7 @@ import Input from '@/pages/components/Input.vue'
 import Radio from '@/pages/components/Radio.vue'
 import Select from '@/pages/components/Select.vue'
 import Textarea from '@/pages/components/Textarea.vue'
+import Tip from '@/pages/components/Tip.vue'
 import Tetris from '@/pages/components/Tetris'
 import Text from '@/pages/components/Text'
 import ToggleSwitch from '@/pages/components/ToggleSwitch'
@@ -127,6 +128,11 @@ export default new Router({
                     path: 'textarea',
                     name: 'Textarea',
                     component: Textarea
+                },
+                {
+                    path: 'tip',
+                    name: 'Tip',
+                    component: Tip
                 },
                 {
                     path: 'tetris',

@@ -65,6 +65,7 @@
     overflow: hidden;
     position: relative;
 
+
     &::before {
       display: block;
       width: 100%;

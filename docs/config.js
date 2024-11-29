@@ -121,6 +121,15 @@ module.exports = {
                             url: { name: 'Text' }
                         }
                     ]
+                },
+                {
+                    title: 'Tips',
+                    children: [
+                        {
+                            title: 'Tip',
+                            url: { name: 'Tip' }
+                        }
+                    ]
                 }
             ]
         }

@@ -10,6 +10,7 @@ import Picture from './Picture'
 import Radio from './Radio'
 import Select from './Select'
 import Textarea from './Textarea'
+import Tip from './Tip'
 import Text from './Text'
 import ToggleSwitch from './ToggleSwitch'
 import Layouts from './Layouts'
@@ -27,6 +28,7 @@ export {
     Radio,
     Select,
     Textarea,
+    Tip,
     Text,
     ToggleSwitch,
     Layouts
